@@ -15,6 +15,7 @@ arreglo_doble = (lista1,lista2)
 array_doble = np.array(arreglo_doble)
 print(arreglo_doble)
 print(array_doble)
+print("Esta es una prueba")
 
 ##############################################
 #############operaciones con arrays
